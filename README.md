@@ -12,6 +12,10 @@
 
 Esri's open source data streaming and transformation technology [koop](https://github.com/esri/koop) support exporting to GeoPackages. For more information on koop visit it's [project page on GitHub](https://github.com/esri/koop). Fork & contribute: koop is open source!
 
+## Directions Media Webinar on GeoPackages
+
+Directions Media [organized a webinar](http://www.directionsmag.com/webinars/view/learn-about-geopackage-a-new-ogc-standard-for-mobile-app-development/382140), where we presented our support for GeoPackage in ArcGIS. The recording of the webinar is available [online](http://vimeo.com/88285579). Our segment starts right around minute 16.
+
 ## Questions?
 
 Contact us at portal@esri.com for questions.
