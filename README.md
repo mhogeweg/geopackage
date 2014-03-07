@@ -16,6 +16,8 @@ Esri's open source data streaming and transformation technology [koop](https://g
 
 Directions Media [organized a webinar](http://www.directionsmag.com/webinars/view/learn-about-geopackage-a-new-ogc-standard-for-mobile-app-development/382140), where we presented our support for GeoPackage in ArcGIS. The recording of the webinar is available [online](http://vimeo.com/88285579). Our segment starts right around minute 16.
 
+My slides from the webinar are available at [slideshare](http://www.slideshare.net/MartenHogeweg/ogc-geopackage-support-in-arcgis).
+
 ## Questions?
 
 Contact us at portal@esri.com for questions.
